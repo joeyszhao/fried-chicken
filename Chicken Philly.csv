@@ -1,0 +1,112 @@
+Ranking,Store Name,Rating,Number of Ratings,Neighborhood,Price,Open Time,Close Time,Delivery,Takeout,Outdoor Seating,Indoor Dining,Latitude,Longitude,Style,Health Score
+1,Love & Honey Fried Chicken,4.5,375,Northern Liberties,M,10:45 PM,8:00 PM,Y,Y,N,N,39.967442,-75.136864,Chicken Shop,96
+2,Redcrest Fried Chicken,4,140,Passyunk Square,L,11:00 AM,2:00 AM,Y,Y,N,N,39.93014,-75.16281,Chicken Shop,89
+3,Andy's Chicken,4.5,226,Fishtown,M,12:00 PM,11:00 PM,Y,Y,N,N,39.9775,-75.12839,Korean,87
+4,Crunchik'n,4.5,146,Washington Square West,L,11:30 AM,11:00 PM,Y,Y,Y,N,39.94831,-75.15917,Korean,80
+5,Chi Mc King,4.5,8,null,L,null,null,null,null,null,Y,39.97011,-75.14763,Korean,null
+6,Foghorn,4,141,East Falls,M,12:00 PM,8:00 PM,Y,Y,N,N,40.0092,-75.19415,Chicken Shop,81
+7,Bud & Marilyn's ,4,1205,Washington Square West,M,4:00 PM,10:00 PM,Y,Y,Y,Y,39.94786,-75.16214,American,82
+8,Crown Fried Chicken,4,41,University City,L,9:00 AM,5:00 PM,Y,Y,N,N,39.95702,-75.20223,American,90
+9,TKK Fried Chicken,4,11,West,L,null,null,N,Y,N,N,40.00278,-75.22212,Asian,null
+10,BBQ Chicken,4.5,85,Upper Darby,M,11:00 AM,8:00 PM,Y,Y,N,N,39.96127,-75.26303,Korean,null
+11,Keven Parker Soul Food Cafe,3.5,178,Market East,M,11:00 AM,6:00 PM,N,Y,N,N,39.95208,-75.15982,Soul Food,86
+12,Buk Chon Korean Cuisine,4.5,179,Old City,M,12:00 PM,8:00 PM,Y,N,Y,Y,39.94817,-75.14371,Korean,84
+13,Southgate,4,306,Rittenhouse,M,12:00 PM,10:00 PM,Y,Y,N,Y,39.94562,-75.17178,Korean,75
+14,Baology,4,172,Logan Square,M,12:00 PM,8:00 PM,Y,Y,N,N,39.95429,-75.17022,Taiwanese,94
+15,Andy's Chicken,4,87,South Philly,L,11:00 AM,9:00 PM,Y,Y,N,N,39.94499,-75.17735,Korean,88
+16,Honey's Sit-N-Eat,4,1360,Northern Liberties,M,7:00 AM,2:00 PM,Y,Y,Y,Y,39.96395,-75.1445,Southern,81
+17,Bonchon,3.5,571,Chinatown,M,11:00 AM,1:00 AM,Y,Y,Y,Y,39.9544,-75.15703,Korean,null
+18,Wing Life Cafe,5,1,Logan,M,null,null,null,null,null,null,40.03636,-75.14474,Chicken Shop,null
+19,Nano's Fried Chicken,4,7,Norristown,L,11:00 AM,1:00 AM,Y,Y,null,null,40.11284,-75.33915,Halal,53
+20,Tsaocaa & BBQ Chicken,3.5,147,Chinatown,M,12:00 PM,12:00 AM,Y,Y,null,null,39.95517,-75.15571,Korean,72
+21,Krispy Kruncy Chicken,4.5,2,Northern Liberties,M,null,null,Y,Y,N,N,39.96053,-75.13762,Chicken Shop,null
+22,Ms Tootsie's RBL,3.5,608,Washington Square West,M,5:00 PM,1:00 AM,N,Y,null,null,39.94331,-75.16381,Soul Food,78
+23,Pelicana Chicken,3.5,75,University City,M,11:30 AM,2:00 AM,Y,Y,null,null,39.95152,-75.20337,Korean,82
+24,Pete's Place,4,13,Society Hill,M,4:00 PM,10:00 PM,Y,Y,null,null,39.94188,-75.1526,Korean,null
+25,Cafe Soho,4,777,Northeast,M,12:30,10:30 PM,N,Y,N,N,40.05512,-75.12603,Korean,77
+26,Cily Chicken Rice,4.5,21,Chinatown,M,11:00 AM,9:00 PM,Y,Y,N,Y,39.9555,-75.15548,Thai,null
+27,Chase's Hop Shop,4.5,112,Northeast,L,2:00 PM,8:30 PM,Y,Y,Y,Y,40.06036,-75.08451,Deli,78
+28,Federal Donuts,4,319,University City,L,8:00 AM,3:00 PM,N,Y,N,N,39.95354,-75.19317,Comfort Food,96
+29,Jamaica Wings,4.5,26,Upper Darby,L,11:00 AM,10:00 PM,Y,Y,null,null,39.96748,-75.29027,Caribbean,null
+30,Andy's Chicken,4.5,31,Jenkintown,M,null,null,Y,Y,null,null,40.09622,-75.12678,Korean,67
+31,Cibao Fried Chicken Restaurant,4,14,Kensington,L,7:00 AM,8:30 PM,null,null,null,null,39.99551,-75.1058,Caribbean,76
+32,Frannie Nicks,3.5,37,Bella Vista,L,11:00 AM,1:00 AM,Y,Y,N,N,39.93896,-75.1564,Soul Food,100
+33,Rex 1516,4.5,456,Rittenhouse Square,M,5:00 PM,11:00 PM,Y,null,null,null,39.94378,-75.16786,Southern,84
+34,The Flavor Spot,4.5,14,Logan,L,11:00 AM,9:30 PM,Y,Y,null ,null,40.0314,-75.1461,Caribbean,82
+35,Chix & Wings,3.5,128,Market East,L,11:00 AM,10:00 PM,Y,Y,null,null,39.94906,-75.15904,Comfort Food,53
+36,Federal Donuts,5,8,Market East,L,7:00 AM,6:00 PM,null,null,null,null,39.95078,-75.16008,Chicken Shop,null
+37,BBQ Chicken,4,35,Elkins Park,M,11:00 AM,8:00 PM,Y,Y,null ,null ,40.06248,-75.13686,Korean,75
+38,Crowd Fried Chicken,3.5,10,Market East,L,10:00 AM,3:00 AM,Y,null,null,null,39.97119,-75.15913,Fast Food,75
+39,Monster Vegan,4.5,10,Washington Square West,M,12:00 PM,9:00 PM,Y,Y,null,null,39.94689,-75.16219,Italian,null
+40,Lavish,4,11,Northeast,L,null,null,Y,Y,null,null,39.96772,-75.21011,Southern,94
+41,Kusina Philly,4.5,18,West,M,5:00 PM,9:00 PM,Y,Y,N,N,39.94395,-75.20993,Filipino,100
+42,Momoyama Ramen & Hawaiian BBQ,5,13,Willow Grove,M,11:30 AM,10:00 PM,Y,Y,null,null,40.13953,-75.11336,Hawaiian,null
+43,Butcher Bar,4,647,Rittenhouse Square,M,4:00 PM,11:00 PM,Y,Y,Y,Y,39.95205,-75.17491,Comfort Food,81
+44,Soul Boat,4,33,South Philly,L,11:00 AM,10:30 PM,null,null,null,null,39.93167,-75.16913,Soul Food,67
+45,Popeyes Louisiana Kitchen,4.5,5,Germantown,L,10:00 AM,10:00 PM,Y,null,null,null,40.03319,-75.17651,Fast Food,null
+46,Jembatan 5,4.5,48,Bella Vista,M,11:00 AM,9:00 PM,Y,Y,Y,Y,39.93831,-75.15979,Indonesian,92
+47,Drunk Crab,5,6,Old Kensington,L,11:00 AM,10:30 PM,Y,Y,null,null,39.97031,-75.14419,Asian Fusion,null
+48,Bourbon & Branch,4,365,Northern Liberties,M,11:00 AM,10:00 PM,Y,Y,Y,Y,39.96202,-75.14072,American,80
+49,Federal Donuts,4,5,Spring Garden,L,8:00 AM,8:00 PM,null,null,null,null,39.96262,-75.17392,Comfort Food,92
+50,Cook and Shaker,4.5,164,Kensington,L,3:00 PM,2:00 AM,null,Y,null,null,39.98262,-75.12054,American,87
+51,Freebyrd Chicken,3.5,50,Old City,M,11:00 AM,9:00 PM,Y,Y,Y,Y,39.94915,-75.15073,Chicken Shop,null
+52,Texas Chicken & Burgers,3.5,19,Rhawnhurst,L,10:00 AM,4:00 PM,Y,Y,null,null,40.04827,-75.06187,American,82
+53,Butter's Soul Food,3,74,Brewerytown,M,12:00 PM,9:00 PM,Y,Y,null,null,39.97409,-75.18161,Soul Food,82
+54,Federal Donuts,4,301,South Philly,L,7:00 AM,7:00 PM,N,Y,null,null,39.96414,-75.14909,Comfort Food,86
+55,Crown Fried Chicken,3.5,10,North Philly,L,10:00 AM,3:00 AM,Y,null,null,null,39.97119,-75.15913,Fast Food,75
+56,Debreaux's ,3,49,West,M,null,null,null,null,null,null,39.98907,-75.24992,Soul Food,null
+57,Saudia Shuler's Country Cookin',3.5,162,West,M,12:00 PM,10:00 PM,N,Y,null,null,39.99814,-75.16737,Soul Food,82
+58,Bao Nine,4.5,71,Rittenhouse Square,M,11:00 AM,9:00 PM,Y,Y,Y,Y,39.95238,-75.17205,Taiwanese,89
+59,Peter's Chicken & Seafood,4,13,West Oak Lane,L,7:30 AM,8:00 PM,null,null,null,null,40.0669,-75.14653,Chicken Shop,60
+60,Honey's Sit-N-Eat,4,5,Rittenhouse Square,M,7:00 AM,2:00 PM,Y,Y,Y,Y,39.94531,-75.177,American,82
+61,Cajun Heroes Seafood Boil Gumbo & Po'Boys,4,56,Society Hill,M,12:00 PM,10:00 PM,Y,Y,Y,Y,39.94121,-75.14691,Cajun/Creole,null
+62,Hatch & Coop,4,92,Market East,L,8:00 AM,2:00 AM,Y,Y,null,null,39.94964,-75.16044,American,78
+63,Bao & Bun Studio,5,11,Frankford,M,12:00 PM,8:00 PM,Y,Y,N,null,40.00934,-75.06479,Taiwanese,100
+64,Wishbone,3.5,186,Washington Square West,M,11:00 AM,10:00 PM,Y,Y,N,Y,39.9484,-75.16254,Comfort Food,87
+65,The Institute Craft Bar & Kitchen,4,14,Spring Garden,M,4:00 PM,12:00 AM,Y,Y,Y,N,39.96241,-75.15569,American,100
+66,Southern Cross Kitchen,3.5,326,Conshohocken,M,11:00 AM,10:00 PM,Y,Y,Y,N,40.07381,-75.30581,Southern,54
+67,Crown Fried Chicken,2.5,13,Spring Garden,L,null,null,null,null,null,null,39.96198,-75.15583,American,39
+68,Tsaocaa ,4.5,44,Manayunk,L,null,null,Y,Y,null,null,40.02634,-75.2252,Korean,null
+69,Crown Fried Chicken,5,1,West,L,10:00 AM,3:00 AM,Y,Y,null,null,39.96069,-75.22499,Fast Food,null
+70,Southside Zabihah Halal Eatery,4.5,18,West,M,8:00 AM,10:00 PM,Y,Y,null,null,39.95491,-75.24248,Soul Food,61
+71,D's Caribbean And American Food,3,5,West,M,null,null,Y,Y,null,null,40.00043,-75.16624,Southern,82
+72,Thomasena's Restaurant,3.5,55,Frankford,M,null,null,Y,Y,null,null,40.00521,-75.078,Soul Food,86
+73,Fuku,3,12,Northern Liberties,M,null,null,Y,Y,null,null,39.96102,-75.1442,Asian Fusion,null
+74,Crown Fried Chicken,4,2,North Philly,L,10:00 AM,4:00 AM,Y,null,null,null,39.99681,-75.11412,Fast Food,89
+75,Koreana,3.5,81,Rittenhouse Square,M,11:00 AM,9:30 PM,Y,Y,N,null,39.94656,-75.17306,Korean,75
+76,Olly,4,50,Queen Village,M,4:00 PM,9:00 PM,Y,Y,Y,null,39.94087,-75.15115,American,55
+77,Krispy Kruncy Chicken,4,1,West,L,null,null,null,null,null,null,39.91253,-75.24351,Cajun/Creole,null
+78,Federal Donuts,4,529,South Philly,L,7:00 AM,3:00 PM,N,Y,null,null,39.93225,-75.14747,Comfort Food,91
+79,Harper's Garden,4,413,Rittenhouse Square,M,10:00 AM,10:30 PM,Y,Y,Y,Y,39.95207,-75.1702,American,88
+80,Dae Bak,4,194,Chinatown,M,11:00 AM,10:00 PM,Y,Y,Y,Y,39.95512,-75.15667,Korean,64
+81,D'jakarta Cafe,4.5,97,West,M,11:00 AM,8:30 PM,Y,Y,null,null,39.9209,-75.1734,Indonesian,null
+82,Rice & Mix,3.5,190,Market East,M,11:30 AM,9:00 PM,Y,Y,null,null,39.94933,-75.16051,Korean,100
+83,On Point Bistro,4.5,214,South Philly,M,9:30,9:00 PM,Y,Y,Y,Y,39.93725,-75.17711,American,91
+84,Nourish,4.5,53,Bella Vista,M,10:00 AM,9:00 PM,Y,Y,null,null,39.93781,-75.15795,Vegan,60
+85,Popeyes Louisiana Kitchen,2,47,Rittenhouse Square,L,10:30 AM,12:00 AM,Y,Y,null,null,39.95095,-75.16633,Fast Food,null
+86,Aunties Biscuits,4,28,West,L,11:00 AM,9:00 PM,Y,Y,null,null,40.05169,-75.15653,American,96
+87,Maple Japanese Ramen,4.5,63,Rittenhouse Square,M,11:00 AM,10:00 PM,Y,Y,null,Y,39.95223,-75.17571,Japanese,100
+88,Community,5,25,South Philly,M,5:00 PM,10:00 PM,Y,Y,Y,Y,39.93754,-75.17883,American,null
+89,More Sugar,5,31,Chinatown,M,11:00 AM,9:00 PM,Y,Y,null,Y,39.95474,-75.15739,Asian Fusion,100
+90,North Third,4,654,Northern Liberties,M,4:00 PM,2:00 AM,null,Y,Y,Y,39.96339,-75.14262,American,82
+91,Temple Teppanyaki,4.5,23,North Philly,L,8:30 AM,6:00 PM,null,null,null,null,39.98217,-75.15356,Korean,95
+92,SPOT Gourmet Burgers,4.5,263,Brewerytown,M,11:00 AM,10:00 PM,Y,Y,null,null,39.97471,-75.18257,American,70
+93,Royal's Restaurants,4.5,83,West Oak Lane,M,12:00 PM,10:00 PM,N,Y,null,null,40.07188,-75.16146,Cajun/Creole,79
+94,South Philadelphia Tap Room,4,522,South Philly,M,12:00 PM,10:00 PM,N,Y,null,null,39.92727,-75.17146,American,52
+95,Fingers Wings & Other Things,3.5,207,Conshohocken,M,11:00 AM,10:00 PM,Y,Y,Y,Y,40.09374,-75.2883,American,61
+96,South,4,453,Fairmount,M,4:00 PM,2:00 AM,Y,null,null,Y,39.96391,-75.16125,Southern,59
+97,Flannel,4.5,73,Passyunk Square,M,9:00 AM,8:00 PM,Y,Y,Y,Y,39.92736,-75.16635,Southern,90
+98,I Tea,4,159,Fairmount,M,10:30 AM,11:00 PM,Y,Y,null,null,39.96304,-75.16418,Chinese,71
+99,The Sidecar Bar & Grille,4,656,Southwest,M,4:00 PM,2:00 AM,Y,Y,null,null,39.94183,-75.17948,American,76
+100,American Sardine Bar,4,349,South Philly,M,1:00 PM,9:00 PM,Y,Y,Y,null,39.93661,-75.17374,American,81
+101,Chix & Bowls,4,136,Rittenhouse Square,L,11:00 AM,9:30 PM,Y,Y,null,null,39.95254,-75.17346,Korean,null
+102,Mei Mei Philadelphia,4,23,Old City,M,5:00 PM,2:00 AM,Y,Y,Y,Y,39.94901,-75.14358,Taiwanese,null
+103,Crown Chicken and Biscuit,5,2,South Philly,L,10:00 AM,5:00 PM,null,null,null,null,39.98635,-75.15575,Fast Food,28
+104,JD's Soul Food Kitchen,2.5,9,West,M,11:00 AM,12:00 AM,Y,Y,null,null,39.9641,-75.20439,Soul Food,100
+105,Wings & Things,1.5,3,Upper Darby,L,11:00 AM,9:00 PM,null,null,null,null,39.96158,-75.26102,American,null
+106,Relish,3.5,353,West Oak Lane,M,4:00 PM,10:00 PM,Y,Y,null,null,40.06352,-75.15316,Southern,65
+107,Bud & Marilyn's ,3.5,30,Northeast,M,5:00 PM,7:00 PM,Y,Y,null,null,39.87636,-75.24218,American,null
+108,Black Seed Cafe,4,21,South Philly,M,7:00 AM,7:00 PM,Y,Y,null,N,39.93815,-75.18364,American,null
+109,Ninja Bao,4.5,39,Logan Square,M,11:00 AM,5:00 PM,Y,Y,N,null,39.990821,-75.168428,Asian Fusion,100
+110,Jones,3.5,1141,Market East,M,4:00 PM,10:00 PM,null,null,null,null,39.94917,-75.15259,American,86
+111,The Love,4,512,Rittenhouse Square,H,11:30,10:00 PM,Y,Y,Y,Y,39.95077,-75.17085,American,90
